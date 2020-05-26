@@ -9,6 +9,7 @@
 **Example usage:**
 
 https://curse-arrow.glitch.me/api/timestamp/2015-12-25
+
 https://curse-arrow.glitch.me/api/timestamp/1451001600000
 
 **Example output:**
