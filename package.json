@@ -1,0 +1,33 @@
+{
+  "name": "fcc_microservice_proj1",
+  "version": "1.0.0",
+  "description": "Free code camp microservice project1",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "^4.4.25"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChethanH/freeCodeCampMS1.git"
+  },
+  "keywords": [
+    "FCC",
+    "Micro services",
+    "Node js"
+  ],
+  "author": "Chethan H",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChethanH/freeCodeCampMS1/issues"
+  },
+  "homepage": "https://github.com/ChethanH/freeCodeCampMS1#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
